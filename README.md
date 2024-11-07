@@ -31,6 +31,7 @@ The list of commands and their usage is given below:
 # roadmap.sh
 
 Link: [Task Tracker CLI](https://roadmap.sh/projects/task-tracker)
+Link: [Solution](https://roadmap.sh/projects/task-tracker/solutions?u=6479cefec4ec366ad5b78274)
 
 ### Task Properties
 
