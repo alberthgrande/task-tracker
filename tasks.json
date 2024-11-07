@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "description": "Buy Diamond",
+        "status": "in-progress",
+        "createdAt": "2024-11-07T18:19:24.064317",
+        "updatedAt": "2024-11-07T18:40:33.350227"
+    },
+    {
+        "id": 2,
+        "description": "Buy a Software",
+        "status": "done",
+        "createdAt": "2024-11-07T18:19:33.532634",
+        "updatedAt": "2024-11-07T21:18:36.176877"
+    },
+    {
+        "id": 3,
+        "description": "Buy Appliances",
+        "status": "todo",
+        "createdAt": "2024-11-07T18:45:16.269136",
+        "updatedAt": "2024-11-07T18:45:16.269160"
+    },
+    {
+        "id": 4,
+        "description": "Buy Groceries",
+        "status": "todo",
+        "createdAt": "2024-11-07T18:45:48.825709",
+        "updatedAt": "2024-11-07T18:45:48.825742"
+    },
+    {
+        "id": 5,
+        "description": "Buy a house",
+        "status": "todo",
+        "createdAt": "2024-11-07T21:15:18.186214",
+        "updatedAt": "2024-11-07T21:15:29.129733"
+    }
+]
