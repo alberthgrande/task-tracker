@@ -28,11 +28,6 @@ Here are some constraints to guide the implementation:
 The list of commands and their usage is given below:
 ![Task Tracker CLI](task-tracker-cli.JPG)
 
-# roadmap.sh
-
-Link: [Task Tracker CLI](https://roadmap.sh/projects/task-tracker)
-Link: [Solution](https://roadmap.sh/projects/task-tracker/solutions?u=6479cefec4ec366ad5b78274)
-
 ### Task Properties
 
 Each task should have the following properties:
@@ -44,3 +39,8 @@ Each task should have the following properties:
 - updatedAt: The date and time when the task was last updated
 
 Make sure to add these properties to the JSON file when adding a new task and update them when updating a task.
+
+# roadmap.sh
+
+Link: [Task Tracker CLI](https://roadmap.sh/projects/task-tracker)
+Link: [Solution](https://roadmap.sh/projects/task-tracker/solutions?u=6479cefec4ec366ad5b78274)
